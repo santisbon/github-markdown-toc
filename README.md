@@ -60,6 +60,7 @@ MacOS (manual installation)
 ```bash
 $ curl https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc -o gh-md-toc
 $ chmod a+x gh-md-toc
+$ sudo ln -s /path/to/gh-md-toc /usr/local/bin/gh-md-toc
 ```
 
 Linux or MacOS (using [Basher](https://github.com/basherpm/basher))
